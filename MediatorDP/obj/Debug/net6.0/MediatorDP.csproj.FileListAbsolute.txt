@@ -1,0 +1,15 @@
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\bin\Debug\net6.0\MediatorDP.exe
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\bin\Debug\net6.0\MediatorDP.deps.json
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\bin\Debug\net6.0\MediatorDP.runtimeconfig.json
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\bin\Debug\net6.0\MediatorDP.dll
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\bin\Debug\net6.0\ref\MediatorDP.dll
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\bin\Debug\net6.0\MediatorDP.pdb
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\MediatorDP.GeneratedMSBuildEditorConfig.editorconfig
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\MediatorDP.AssemblyInfoInputs.cache
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\MediatorDP.AssemblyInfo.cs
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\MediatorDP.csproj.CoreCompileInputs.cache
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\MediatorDP.dll
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\ref\MediatorDP.dll
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\MediatorDP.pdb
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\MediatorDP.genruntimeconfig.cache
+E:\MCode\Learn\MyLearn\DesignPatterns\MediatorDP\MediatorDP\obj\Debug\net6.0\MediatorDP.csproj.AssemblyReference.cache

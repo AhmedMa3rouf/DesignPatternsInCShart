@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2092dd1e-de72-4150-b03f-3d392185348c": {
+      "ProjectGuid": "2092dd1e-de72-4150-b03f-3d392185348c",
+      "DisplayName": "MediatorDP",
+      "ColorIndex": 0
+    },
+    "2c52c755-325d-40ef-a951-8c72e3fd268e": {
+      "ProjectGuid": "2c52c755-325d-40ef-a951-8c72e3fd268e",
+      "DisplayName": "FactoryPattern",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
